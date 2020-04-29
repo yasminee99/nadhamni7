@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\ProjetNadhamni\ProjetNadhamni\bin\Debug\ProjetNadhamni.exe.config
+C:\Users\HP\source\repos\ProjetNadhamni\ProjetNadhamni\bin\Debug\ProjetNadhamni.exe
+C:\Users\HP\source\repos\ProjetNadhamni\ProjetNadhamni\bin\Debug\ProjetNadhamni.pdb
+C:\Users\HP\source\repos\ProjetNadhamni\ProjetNadhamni\obj\Debug\ProjetNadhamni.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ProjetNadhamni\ProjetNadhamni\obj\Debug\ProjetNadhamni.Properties.Resources.resources
+C:\Users\HP\source\repos\ProjetNadhamni\ProjetNadhamni\obj\Debug\ProjetNadhamni.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\ProjetNadhamni\ProjetNadhamni\obj\Debug\ProjetNadhamni.exe
+C:\Users\HP\source\repos\ProjetNadhamni\ProjetNadhamni\obj\Debug\ProjetNadhamni.pdb
+C:\Users\HP\source\repos\ProjetNadhamni\ProjetNadhamni\obj\Debug\ProjetNadhamni.Facebook.resources
+C:\Users\HP\source\repos\ProjetNadhamni\ProjetNadhamni\obj\Debug\ProjetNadhamni.Home.resources
